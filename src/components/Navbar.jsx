@@ -2,7 +2,7 @@ import React from 'react'
 const Navbar = () => {
     return (
         <header>
-            <p>FLEX EDGE FITNESS</p>
+            <p>CULT EDGE FITNESS</p>
         </header>
     )
 }
